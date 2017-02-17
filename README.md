@@ -1,17 +1,17 @@
 # Triangularizaço De Polígonos
 
-* Projeto de Geometria Computacional
+ # Projeto de Geometria Computacional 
 
-## Introdução
+### Introdução
  - Parte Historica
  - Motivação
  - Objetivos
  
-## Desenvolvimento
+### Desenvolvimento
  - Ultilidades
  - Aplicações
  - Exemplos
  
-## Conclução
+### Conclução
  - Importância
  - Objetivos alcançados
