@@ -6,10 +6,12 @@
  - Parte Historica
  - Motivação
  - Objetivos
+ 
 ## Desenvolvimento
  - Ultilidades
  - Aplicações
  - Exemplos
+ 
 ## Conclução
  - Importância
  - Objetivos alcançados
