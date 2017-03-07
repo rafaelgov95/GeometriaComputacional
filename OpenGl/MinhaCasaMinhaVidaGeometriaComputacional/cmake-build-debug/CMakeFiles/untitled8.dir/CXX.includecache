@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rafael/Documentos/Repositorios/UFMS/Materias/4Semestre/GeometriaComputacional/OpenGl/MinhaCasaMinhaVidaGeometriaComputacional/main.cpp
+GL/glut.h
+-
+
